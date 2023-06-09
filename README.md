@@ -35,6 +35,6 @@ This app is released under the MIT License. Feel free to use, modify, and distri
 The app's positive quotes are sourced from various inspirational quote websites. Special thanks to the developers and contributors of the Swift programming language, UIKit framework, and Xcode IDE for their amazing tools and resources.
 
 ### Contact
-If you have any questions or need further assistance, you can reach out to the app's developer, John Doe, at john.doe@example.com.
+If you have any questions or need further assistance, you can reach out to the app's developer, Bella Matasic, at bella.matasic@gmail.com.
 
 Happy generating and spreading positivity!
